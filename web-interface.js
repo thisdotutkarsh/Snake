@@ -1,1 +1,1 @@
-// Functionality for controlling snake movement
+// Function for controlling snake movement
