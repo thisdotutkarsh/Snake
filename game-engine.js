@@ -1,1 +1,0 @@
-// Function for running snake in Node.js 
