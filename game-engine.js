@@ -1,1 +1,1 @@
-// Function to verify snake's movement.
+// Game Engine Functionality
